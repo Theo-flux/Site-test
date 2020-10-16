@@ -1,2 +1,2 @@
-# cousera-test
-coursera-test repository
+# site-test
+Website-test repository
