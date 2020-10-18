@@ -36,9 +36,9 @@ section {
 	display: flex;
 	flex-direction: column;
 	width: 70%;
-	height: 200px;
+	height: 220px;
 	background-color: #999999;
-	border-bottom: 10px solid black;
+	border: 3px solid black;
 	padding: 10px;
 	margin: 15px 0;
 }
@@ -52,9 +52,9 @@ div.title {
 	padding: 5px;
 	margin-bottom: 10px;
 	width: 150px;
-	/*border: 3px solid black;
+	/*border: 3px solid black;*/
 	border-bottom: 3px solid black;
-	border-left: 3px solid black;*/
+	border-left: 3px solid black;
 
 	
 }
